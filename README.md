@@ -20,7 +20,7 @@ appears in the real world and can be explored interactively.
 *(Video will be added soon)*  
 Current screenshot preview:
 
-![AR Demo](assets/ar_demo.jpg)
+![AR Demo](demo.jpg)
 
 ## Technologies
 - Unity (C#)
