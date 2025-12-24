@@ -17,7 +17,7 @@ appears in the real world and can be explored interactively.
 - Real-time user interaction through touch gestures
 
 ## Demo
-[![AR Demo](demo1.jpg)](demo.mp4)
+Can be viewed on the Release page of the Repo.
 
 ## Technologies
 - Unity (C#)
